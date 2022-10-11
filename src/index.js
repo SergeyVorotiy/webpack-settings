@@ -1,1 +1,3 @@
-document.write("Hello, Webpack!")
+import './styles.css';
+
+document.write('Hello, Webpack!');

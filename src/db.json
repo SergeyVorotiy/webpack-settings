@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    { "id": 1, "name": "Ivan", "email": "ivan@gmail.com", "phone": "+7961999999" },
+    { "id": 2, "name": "Sergey", "email": "sergey@gmail.com", "phone": "+7928999999" },
+    { "id": 3, "name": "Nasty", "email": "nasty@gmail.com", "phone": "+7938999999" },
+    { "id": 4, "name": "Liza", "email": "liza@gmail.com", "phone": "+7952999999" },
+    { "id": 5, "name": "Maya", "email": "maya@gmail.com", "phone": "+7948999999" },
+    { "id": 6, "name": "Victor", "email": "victor@gmail.com", "phone": "+7951999999" },
+    { "id": 7, "name": "Born", "email": "born@gmail.com", "phone": "+7918999999" },
+    { "id": 8, "name": "Eugen", "email": "eugen@gmail.com", "phone": "+7999999999" }
+  ]
+}
